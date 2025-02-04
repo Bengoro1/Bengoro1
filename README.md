@@ -24,7 +24,7 @@
 </div>
 <h3 align="left">🔥   My Stats :</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bengoro1" height="220" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-tan.vercel.app?user=Bengoro1&theme=dark&border_radius=5" alt="GitHub Streak" /></a>
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Bengoro1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
